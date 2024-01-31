@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Thai Curry
 Sushis
 Potato Soup
+=======
+Monster In Law
+Queen Charlotte
+Dubai Bling
+>>>>>>> movies
